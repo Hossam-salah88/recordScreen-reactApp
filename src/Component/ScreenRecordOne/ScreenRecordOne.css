@@ -1,0 +1,67 @@
+.header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(17 24 39);
+    color: white;
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+  
+  .main__title {
+    font-size: 40px;
+    color: rgb(107 114 128);
+    letter-spacing: 3px;
+  }
+  
+  .video__feedback {
+    text-align: center;
+  }
+  
+  .main__btn {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .main__btn button {
+    margin-left: 20px;
+  }
+  
+  button {
+    padding: 20px 40px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 25px;
+    transition: all 0.3s;
+  }
+  
+  button:hover {
+    background-color: #9DA1A7;
+    cursor: pointer  !important;
+  }
+  
+  .vedioDowenload__section {
+    padding: 40px 0;
+    display: none;
+  }
+  
+  .downloadVideo__btn {
+    padding: 50px 0;
+  }
+  
+  
+  .download-video {
+    display: block;
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    font-size: 40px;
+    border-radius: 25px;
+    transition: all 0.3s;
+  }
+  
+  .download-video:hover {
+    background-color: #9DA1A7;
+    cursor: pointer  !important;
+  }
+  
+  
